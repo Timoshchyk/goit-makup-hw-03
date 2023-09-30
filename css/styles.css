@@ -91,7 +91,6 @@ color: #4D5AE5;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     margin-right: 76px;
-    padding: 24px 0 ;
 }
 .header-menu-list {
 color:  #2E2F42;
@@ -118,6 +117,7 @@ font-weight: 500;
 line-height: 1.5;
 letter-spacing: 0.02em;
 gap: 40px;
+padding: 24px 0 ;
 }
 .header-menu-link:hover,
 .header-menu-link:focus {
@@ -131,7 +131,7 @@ color: #404bbf;
 .header-soc-list {
     gap: 40px;
     display: flex;
-    padding: 24px 0 ;
+    
 }
 .header-soc-item {
 }
