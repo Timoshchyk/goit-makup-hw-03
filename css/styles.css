@@ -57,8 +57,7 @@ button {
 .header{
 background-color: #FFFFFF;
 border-bottom: 1px solid #e7e9fc;
-padding-top: 24px;
-padding-bottom: 24px;
+padding: 24px 0 ;
 }
 
 .header-container {
@@ -92,7 +91,7 @@ color: #4D5AE5;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     margin-right: 76px;
-    padding: 24px 0;
+    padding: 24px 0 ;
 }
 .header-menu-list {
 color:  #2E2F42;
@@ -127,11 +126,12 @@ color: #404bbf;
 .header-address {
     font-style: normal;
     margin-left: auto;
-    padding: 24px 0 ;
+    
 }
 .header-soc-list {
     gap: 40px;
     display: flex;
+    padding: 24px 0 ;
 }
 .header-soc-item {
 }
