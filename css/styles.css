@@ -126,6 +126,7 @@ color: #404bbf;
 .header-address {
     font-style: normal;
     margin-left: auto;
+    padding: 24px 0 ;
 }
 .header-soc-list {
     gap: 40px;
